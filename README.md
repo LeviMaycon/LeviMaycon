@@ -7,7 +7,6 @@
 	<br />
 	<br />
 	<img src="https://github-readme-stats.vercel.app/api?username=LeviMaycon&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMaycon&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
 <details>
