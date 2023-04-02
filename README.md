@@ -1,15 +1,18 @@
-<h1>Bem-vindo ao meu repositório!👋</h1>
+<div align="center">
+	<h1>Hi! I'm <a href="https://LeviMaycon.github.io">Levi Maycon</a> 🐬 !</h1>
+	<div>JUNIOR DEVELOPER</div>
+	<br />
+	<a href="https://github.com/LeviMaycon"><img src="https://img.shields.io/github/stars/LeviMaycon?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="mailto:nealwang.sh@pm.me/"><img src="https://img.shields.io/badge/EMAIL-nealwang.sh@pm.me-b4befe?style=flat&logo=protonmail" /></a>
+	<br />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=LeviMaycon&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMaycon&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+</div>
 
-<i>Olá, sou o <b>Levi</b> e este é meu repositório no Github. Aqui você encontrará alguns dos meus projetos de desenvolvimento Fullstack, onde utilizo principalmente as tecnologias Node.js, Express, React e TypeScript.</i>
-
-<h1>Sobre mim 🧑‍</h1>💻
-<i>Sou um desenvolvedor Fullstack apaixonado por criar soluções web incríveis. Tenho vasta experiência em tecnologias de desenvolvimento web e estou sempre buscando aprender novas ferramentas e tendências.</i>
-
-<i>Além do desenvolvimento web, gosto de jogar videogame nas horas vagas e assistir a filmes e séries. Sou sempre animado para trabalhar em projetos interessantes e desafiadores, então sinta-se à vontade para entrar em contato comigo para discutir ideias ou colaborações.</i>
-
-<h1>Contato 📞</h1>
-<i>Você pode me encontrar no LinkedIn:</i>
-
-LinkedIn - https://www.linkedin.com/in/levi-maycon-298687216/
-
-<h2>Se tiver alguma pergunta sobre meu trabalho ou projetos, fique à vontade para me enviar uma mensagem. Obrigado por visitar meu repositório! 🙏</h2>
+<details>
+	<summary>Projects</summary>
+	<ul>
+    <h1 align="center"></h1>
+	</ul>
+</details>
