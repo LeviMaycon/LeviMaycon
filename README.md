@@ -16,7 +16,7 @@ HTML5 | CSS3 | React | Sass | Bootstrap |
 
 
 #### Back-end 
-Java | Python | Nodejs | Typescript | ExpressJs | Jest | SQL | MySql | 
+ Node | Typescript | Postgrees | API REST | TDD
 
 #### Soft-Skills
 
