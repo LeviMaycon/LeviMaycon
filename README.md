@@ -8,7 +8,7 @@ No vasto universo da programação, eu sou um Neo, navegando por linhas de códi
 ### **Front-end**
 - **Javascript** | **Typescript**
 - **HTML5** | **CSS3**
-- **React** | **Sass** | **Bootstrap**
+- **Reactjs** | **Sass** | **Bootstrap**
 
 ### **Back-end**
 - **Node.js** | **Express** | **NestJs**
@@ -22,9 +22,9 @@ No vasto universo da programação, eu sou um Neo, navegando por linhas de códi
 ## **📜 Experiência**
 
 ## **🌐 Contato**
-- **Email:** [meuemail@exemplo.com](mailto:levioficial361@gmail.com)
-- **LinkedIn:** [linkedin.com/in/levi](https://linkedin.com/in/LeviMaycon)
-- **GitHub:** [github.com/levi](https://github.com/leviMaycon)
+- **Email:** [levioficial361@gmail.com](mailto:meuemail@exemplo.com)
+- **LinkedIn:** [linkedin.com/in/LeviMaycon](https://linkedin.com/in/LeviMaycon)
+- **GitHub:** [github.com/LeviMaycon](https://github.com/leviMaycon)
 
 ## **📝 Notas do Programador**
 "Na programação, como na Matrix, as possibilidades são infinitas. O que você escolher pode mudar a realidade. Escolha sabiamente."
