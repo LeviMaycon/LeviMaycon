@@ -6,9 +6,9 @@ No vasto universo da programação, eu sou um Neo, navegando por linhas de códi
 ## **🛠 Habilidades**
 
 ### **Front-end**
-- **Javascript** | **Typescript**
+- **Typescript**
 - **HTML5** | **CSS3**
-- **Reactjs** | **Sass** | **Bootstrap**
+- **Reactjs** | **Angular** | **Bootstrap**
 
 ### **Back-end**
 - **Node.js** | **Express** | **NestJs**
