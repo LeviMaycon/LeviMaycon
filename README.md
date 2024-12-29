@@ -1,45 +1,85 @@
-# **Olá, pode me chamar de Leh! 👋**
+<div align="center">
 
-## **🌌 O Mundo do Código**
-No vasto universo da programação, eu sou um Neo, navegando por linhas de código como se fossem partículas no espaço-tempo. Cada linguagem é uma chave para desbloquear uma nova realidade. Sou Levi, um jovem de 20 anos, mergulhado no infinito da Ciência da Computação. Minha missão? Transformar conceitos em códigos que desafiam as leis da física.
+# `{ LEH.dev }` | Explorador Digital 🌌
 
-## **🛠 Habilidades**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack;Cientista+da+Computa%C3%A7%C3%A3o;Visionário+Digital)](https://git.io/typing-svg)
 
-### **Front-end**
-- **Typescript**
-- **HTML5** | **CSS3**
-- **Reactjs** | **Angular** | **Bootstrap**
+</div>
 
-### **Back-end**
-- **Node.js** | **Express** | **NestJs**
-- **Prisma** | **MariaDB**
-- **Docker** | **TypeScript** | **Swagger**
+## ⚡ `sudo whoami`
 
-### **Ferramentas**
-- **Git** | **GitHub**
-- **VSCode** | **Postman**
+```typescript
+class Developer {
+  name: string = "Leh";
+  age: number = 20;
+  role: string = "Full Stack Developer";
+  passion: string[] = ["Código", "Inovação", "Tecnologia"];
+}
+```
 
-## **📜 Experiência**
+<div align="center">
 
-## **🌐 Contato**
-- **Email:** [levioficial361@gmail.com](mailto:meuemail@exemplo.com)
-- **LinkedIn:** [linkedin.com/in/LeviMaycon](https://linkedin.com/in/LeviMaycon)
-- **GitHub:** [github.com/LeviMaycon](https://github.com/leviMaycon)
+### 💫 "Transformando linhas de código em universos digitais"
 
-## **📝 Notas do Programador**
-"Na programação, como na Matrix, as possibilidades são infinitas. O que você escolher pode mudar a realidade. Escolha sabiamente."
+</div>
+
+## 🌐 `tech.stack`
+
+```json
+{
+  "frontend": {
+    "languages": ["TypeScript", "HTML5", "CSS3"],
+    "frameworks": ["ReactJS", "Angular", "Ionic"],
+    "styling": ["Bootstrap", "Tailwind"]
+  },
+  "backend": {
+    "runtime": "Node.js",
+    "frameworks": ["Express", "NestJS"],
+    "database": {
+      "orm": "Prisma",
+      "sql": "MariaDB"
+    },
+    "tools": ["Docker", "Swagger"]
+  },
+  "devTools": ["Git", "GitHub", "VSCode", "Postman"]
+}
+```
+
+## 🚀 `career.path`
+
+```yaml
+experience:
+  - company: MTP
+    role: Assistente de Qualidade
+    focus: Auditoria e Análise de Dados
+    
+  - company: Unika
+    role: Almoxarife
+    focus: Gestão e Logística (Hidráulica/Elétrica)
+```
+
+## 📡 `contact.methods`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-levioficial361%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levioficial361@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-levimaycon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levimaycon)
+[![GitHub](https://img.shields.io/badge/GitHub-LeviMaycon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/levimaycon)
+
+</div>
+
+## 💭 `philosophy.txt`
+
+<div align="center">
+
+> *"O universo digital é infinito, e cada linha de código é uma estrela brilhando no firmamento da inovação."*
+
+</div>
 
 ---
 
-No meu mundo, a Matrix não é um código, mas um conceito de possibilidades infinitas. Entre e descubra o que podemos criar juntos.
+<div align="center">
 
-#### Soft-Skills
+![Visitors](https://api.visitorbadge.io/api/visitors?path=levimaycon&label=VISITORS&labelColor=%23000000&countColor=%2300FF00)
 
--  Trabalho em equipe.
--  Resiliencia
--  Inteligência Emocional.
--  Comunicação
-
-## 🔗 Linkedin
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levimaycon/)
+</div>
