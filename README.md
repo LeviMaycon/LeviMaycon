@@ -53,9 +53,9 @@ experience:
     role: Assistente de Qualidade
     focus: Auditoria e Análise de Dados
     
-  - company: Unika
-    role: Almoxarife
-    focus: Gestão e Logística (Hidráulica/Elétrica)
+  - company: WTW
+    role: Analista de Seguros Pleno
+    focus: Atuando no recebimento e processamento de movimentações provenientes da Operadora, com foco na aderência aos prazos estabelecidos no Acordo de Nível de Serviço (SLA).
 ```
 
 ## 📡 `contact.methods`
