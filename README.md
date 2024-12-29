@@ -37,7 +37,7 @@ class Developer {
     "frameworks": ["Express", "NestJS"],
     "database": {
       "orm": "Prisma",
-      "sql": "MariaDB"
+      "sql": "PostgreSQL"
     },
     "tools": ["Docker", "Swagger"]
   },
