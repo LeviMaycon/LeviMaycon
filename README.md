@@ -45,19 +45,6 @@ class Developer {
 }
 ```
 
-## 🚀 `career.path`
-
-```yaml
-experience:
-  - company: MTP
-    role: Assistente de Qualidade
-    focus: Auditoria e Análise de Dados
-    
-  - company: WTW
-    role: Analista de Seguros Pleno
-    focus: Atuando no recebimento e processamento de movimentações provenientes da Operadora, com foco na aderência aos prazos estabelecidos no Acordo de Nível de Serviço (SLA).
-```
-
 ## 📡 `contact.methods`
 
 <div align="center">
